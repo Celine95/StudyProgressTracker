@@ -1,3 +1,93 @@
 <resources>
     <string name="app_name">Study Progress Tracker</string>
+    <string name="start">START</string>
+
+    <!-- main menu page -->
+    <string name="record_name">Record</string>
+    <string name="calendar_name">Calendar</string>
+    <string name="academic_name">Academic Assessment</string>
+    <string name="cv_name">CV</string>
+    <string-array name="extra_functions">
+        <item>Note</item>
+        <item>Message</item>
+        <item>Favorite</item>
+        <item>Group</item>
+    </string-array>
+    <!-- main menu page -->
+
+    <!-- Button String -->
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="submit">submit</string>
+    <string name="add">add</string>
+    <string name="edit">edit</string>
+    <string name="upload">upload</string>
+    <string name="detail">details</string>
+    <string name="add_new_task">add new task</string>
+    <string name="add_module">add module</string>
+    <!-- Button String -->
+
+    <!-- Hint in login/register -->
+    <string name="enter_name">please enter user name</string>
+    <string name="enter_pw">please enter password </string>
+    <string name="confirm_pw">please confirm password</string>
+    <string name="vrf_code">please enter verification code</string>
+    <string name="email_addr">please enter email address</string>
+    <!-- Hint in login/register -->
+
+
+
+    <!-- USER INFO PAGE -->
+    <!-- user info list -->
+    <string-array name="usr_info">
+        <item>name</item>
+        <item>student ID</item>
+        <item>college name</item>
+        <item>subject</item>
+        <item>grade</item>
+    </string-array>
+    <!-- user info list -->
+
+    <!-- notice initialisation -->
+    <string name="start_time">start time</string>
+    <string name="end_time">end time</string>
+    <string name="remind">remind</string>
+    <!-- notice initialisation -->
+    <!-- USER INFO PAGE -->
+
+    <!-- RECORD PAGE -->
+    <string name="module_name">Module name</string>
+    <string name="module_id">Module ID</string>
+    <string name="professors">Professor</string>
+    <string name="Grade">Grade</string>
+    <string name="module_intro">Introduction</string>
+
+
+    <!--hint in record-->
+    <string name="read_source">read from database</string>
+    <!--hint in record-->
+
+    <!--task list-->
+    <string name="finished_task">Finished Tasks</string>
+    <string name="on_going_task">On-going Tasks</string>
+    <!--task list-->
+
+    <!--Add new event-->
+    <string name="event_detail">Event Detail</string>
+    <!--Add new event-->
+    
+    <!--hint in task list-->
+
+    <!--hint in task list-->
+        
+
+    
+    
+
+
+    <!-- RECORD PAGE -->
+
+
+
+
 </resources>
